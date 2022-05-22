@@ -18,3 +18,9 @@ Completed projects from https://www.datacamp.com/
 <a href="https://github.com/Paheychup/data-camp-projects/blob/main/R/Are%20You%20Ready%20for%20the%20Zombie%20Apocalypse_/notebook.ipynb">Are You Ready for the Zombie Apocalypse</a>
 
 <a href="https://github.com/Paheychup/data-camp-projects/blob/main/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb">Dr. Semmelweis and the Discovery of Handwashing</a>
+
+<a href="https://github.com/Paheychup/data-camp-projects/blob/main/R/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb">Exploring the Kaggle Data Science Survey</a>
+
+<a href="https://github.com/Paheychup/data-camp-projects/blob/main/R/What%20Your%20Heart%20Rate%20Is%20Telling%20You/notebook.ipynb">What Your Heart Rate Is Telling You</a>
+
+<a href="https://github.com/Paheychup/data-camp-projects/blob/main/R/Wrangling%20and%20Visualizing%20Musical%20Data/notebook.ipynb">Wrangling and Visualizing Musical Data</a>
