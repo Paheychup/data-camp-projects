@@ -13,6 +13,8 @@ Completed projects from https://www.datacamp.com/
 
 <b>R projects</b>
 
+<a href="https://github.com/Paheychup/data-camp-projects/blob/main/R/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb">A Visual History of Nobel Prize Winners</a>
 
+<a href="https://github.com/Paheychup/data-camp-projects/blob/main/R/Are%20You%20Ready%20for%20the%20Zombie%20Apocalypse_/notebook.ipynb">Are You Ready for the Zombie Apocalypse</a>
 
-
+<a href="https://github.com/Paheychup/data-camp-projects/blob/main/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb">Dr. Semmelweis and the Discovery of Handwashing</a>
